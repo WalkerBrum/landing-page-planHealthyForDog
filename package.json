@@ -1,0 +1,23 @@
+{
+  "name": "landing-page-planfordogs",
+  "version": "1.0.0",
+  "description": "freeCodeCamp project healthy dog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "sass --watch scss:css --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Walker Brum Lobato Filho",
+  "license": "ISC",
+  "bugs": {
+    "url": "file:///C:/Users/Walker/Documents/GitHub/landing-page-planForDogs/index.html"
+  },
+  "homepage": "",
+  "dependencies": {
+    "sass": "^1.43.4"
+  }
+}
