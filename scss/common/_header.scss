@@ -1,6 +1,7 @@
 #header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     height: 110px;
     margin: 0px 30px;
 
@@ -16,8 +17,6 @@
     }
 
     #nav-bar {
-        display: flex;
-        align-items: center;
         position: sticky;   
 
         ul {
